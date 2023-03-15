@@ -1,5 +1,8 @@
 package com.example.kotlin
 
+/**
+ * notnull, cast 로 완벽한 계산기 만들기
+ */
 fun main(){
     var alpha = 0
     val beta = 2
